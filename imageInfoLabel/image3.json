@@ -1,0 +1,2 @@
+{"path":"/Users/haiyang/Desktop/work/cracksDetection/inputResources/image3.png",
+  "outputs":{"object":[{"name":"crack","bndbox":{"xmin":457,"ymin":0,"xmax":693,"ymax":908}}]},"time_labeled":1611555323087,"labeled":true,"size":{"width":1350,"height":918,"depth":3}}
